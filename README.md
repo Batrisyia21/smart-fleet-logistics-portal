@@ -1,4 +1,5 @@
 # Smart Fleet & Logistics Optimization Portal
+Live Demo: https://smart-fleet-logistics-app-cavlv4ojzfe36eypvcsp39.streamlit.app/
 
 An interactive, web-based fleet management and telemetry analytics portal developed with Python, Streamlit, and SQLite. Built for the BIT1034 Advanced Programming group project.
 
