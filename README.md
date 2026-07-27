@@ -35,4 +35,4 @@ Developed as a group project for BIT1034 Advanced Programming:
 
 Student 1 Name - Nur Batrisyia Binti Zool Hilmi (B24090012)
 
-Student 2 Name - Malaysia University of Science and Technology (B24090022)
+Student 2 Name - Aina Safirah Binti Saifuddin (B24090022)
